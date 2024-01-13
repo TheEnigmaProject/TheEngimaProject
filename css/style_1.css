@@ -95,6 +95,9 @@ video::-webkit-media-controls-timeline-container {
     font-size: 24px !important;
     margin-bottom: 24px;
   }
+  .landing-page-film-container .honeytrap_logo h2 {
+    font-size: 6rem;
+  }
 }
 
 /*  Tiril styles end */
