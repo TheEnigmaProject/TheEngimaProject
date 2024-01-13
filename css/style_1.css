@@ -97,6 +97,7 @@ video::-webkit-media-controls-timeline-container {
   }
   .landing-page-film-container .honeytrap_logo h2 {
     font-size: 6rem;
+    color: red;
   }
 }
 
